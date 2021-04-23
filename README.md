@@ -59,7 +59,7 @@ resulting in something like this:
 >Original image 
 
 ![Image after LBP](Img/lbp_example.png)
->Original image 
+>Image after LBP processing
 
 Next, the image it's interpreted as a histogram with the levels of
 gray scale.
