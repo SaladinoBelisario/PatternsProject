@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import lbp
 from definitions import CHI_SQUARE, EUCLIDEAN, NORMALIZED_EUCLIDEAN, ABSOLUTE
 
 

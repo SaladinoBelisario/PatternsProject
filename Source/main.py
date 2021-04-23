@@ -1,9 +1,5 @@
-import copy
-import os
 import random
-import re
 import cv2
-import numpy as np
 from matplotlib import pyplot as plt
 import lbp
 import lbph

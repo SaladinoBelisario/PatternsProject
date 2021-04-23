@@ -8,7 +8,7 @@ more precise, but takes a lot of time in order to produce results,
 moreover, needs big datasets.
 
 For a more detailed explanation of how the algorithm it's implemented you can 
-visit [Facial Recognition with LBPH in Python]()
+visit [Facial Recognition with LBPH in Python](https://javarustacean.wordpress.com/2021/04/23/facial-recognition-with-lbph-in-python/)
 
 
 ### The LBPH algorithm
@@ -42,7 +42,7 @@ The LBP feature vector, in its simplest form, is created in the following manner
 
 For optimization reasons the project uses the convolve function, in this case
 the lbp algorithm it's performed with a series of filters, and a convolve operation.
-A resource that explains this is founded in [2].
+The article that inspired this is [2].
 
 ![Example of how LBP is calculated](Img/lbp1.png)
 > Example of how LBP is calculated
